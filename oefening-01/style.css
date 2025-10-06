@@ -1,0 +1,35 @@
+h1{
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    border: 2px solid #333;
+    background-color: #74b5ff;
+    color:#ffffff;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    border-radius: 5px;
+    border:none;
+    margin: 5px;
+    border: solid 2px gray;
+}
+
+#button1:hover { background-color: blue;
+
+    box-shadow:0 0 5px blueviolet;
+
+}
+
+#button2:active
+{
+    background-color: palevioletred;
+    transform: translateY(4px);
+}
+
+#button3:focus
+{
+outline: 5px solid red;
+}
