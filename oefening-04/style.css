@@ -1,0 +1,40 @@
+th{
+    color: white;
+    background-color: black;
+    min-width: 120px;
+    font-weight: bold;
+    font-size: 1.5rem;
+    font-family: sans-serif;
+}
+
+table{
+    border: 1px solid black;
+    margin: 20px;
+     border-spacing: 0PX;
+    margin: 1PX;
+    
+}
+td{
+    min-width: 120px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+
+}
+th , td {
+    padding: 10px; ;
+}
+.red{
+    background-color: red;
+
+}
+.blue{
+    background-color: blue;
+}
+.purple{
+    background-color: purple;
+}
+.pink{
+    background-color: pink;
+}
